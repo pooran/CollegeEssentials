@@ -1,4 +1,4 @@
- # What every engineering college student should have
+# What every engineering college student should have
 - [GitHub a/c](http://www.github.com)
     - Look for sample code 
     - Share your code 
@@ -40,7 +40,7 @@
 # Getting started with Mobile apps
 - [Learn C#](https://mva.microsoft.com/training-topics/c-app-development#!jobf=Developer&lang=1033)
 - [Learn Xamarin](https://mva.microsoft.com/colleges/xamarin)
-- [Learn Xamarin.Forms] 
+- [Learn Xamarin.Forms](http://xamarin.com/forms)
     - [Charles Petzold Book on Xamarin.Forms](https://developer.xamarin.com/guides/xamarin-forms/creating-mobile-apps-xamarin-forms/)
     - [Xamarin.Forms kickstarter](http://www.xforms-kickstarter.com/)
     - [Self Guided Tutorials](https://university.xamarin.com/self-guided)
