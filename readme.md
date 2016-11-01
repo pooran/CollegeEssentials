@@ -45,11 +45,12 @@
     - [Xamarin.Forms kickstarter](http://www.xforms-kickstarter.com/)
     - [Self Guided Tutorials](https://university.xamarin.com/self-guided)
     - [Dev Days Labs](https://github.com/xamarin/dev-days-labs)
+    - [60 day Xamarin University Trial)[https://www.xamarin.com/university/60]
 - Checkout sample apps
     - [Acquaint](https://github.com/xamarinhq/app-acquaint)
     - [Xamarin Evolve 2016 App](https://github.com/xamarinhq/app-evolve)
     - [Sport](https://github.com/xamarin/sport)
     - [Xamarin CRM](https://github.com/xamarin/app-crm)
     - [My Shoppe](https://github.com/jamesmontemagno/MyShoppe)
-    - [Hanselman.Forms](https://github.com/jamesmontemagno/Hanselman.Forms)    -
+    - [Hanselman.Forms](https://github.com/jamesmontemagno/Hanselman.Forms)    
     - [Sample Apps](https://developer.xamarin.com/samples/tag/Xamarin.Forms/)
