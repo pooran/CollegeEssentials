@@ -54,3 +54,6 @@
     - [My Shoppe](https://github.com/jamesmontemagno/MyShoppe)
     - [Hanselman.Forms](https://github.com/jamesmontemagno/Hanselman.Forms)    
     - [Sample Apps](https://developer.xamarin.com/samples/tag/Xamarin.Forms/)
+    
+# Other resources 
+- [Acho Arnond List](https://github.com/AchoArnold/discount-for-student-dev)
